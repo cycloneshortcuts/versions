@@ -1,4 +1,4 @@
-# 🌀 CycloneLib 
+# <emoji>🌀</emoji> CycloneLib 
 [DISCORD COMMUNITY](https://discord.gg/UYgGdEwGsK)
 ## what is cyclone
 > Cyclone is one of the first function libraries in Shortcuts designed for **efficiency** in shortcut creation. It features global variables, shortcut updating, vCardMenus, stylized screens, and more, all with maximum customization and ease of use. **Simply pass a dictionary through this shortcut as an input and Cyclone will do the rest** 
