@@ -1,29 +1,49 @@
-# <emoji>🌀</emoji> CycloneLib 
-[DISCORD COMMUNITY](https://discord.gg/UYgGdEwGsK)
-## what is cyclone
-> Cyclone is one of the first function libraries in Shortcuts designed for **efficiency** in shortcut creation. It features global variables, shortcut updating, vCardMenus, stylized screens, and more, all with maximum customization and ease of use. **Simply pass a dictionary through this shortcut as an input and Cyclone will do the rest** 
-Read the docs below or by running the shortcut
+# ⏩ Build Better and Faster
 
-# features
-- ✅ **optimized:** only runs what the actions it needs to. we’re always working on optimizing it 
-- 🌎 **global variables:** set a variable that will remain even after the user stops the shortcut. Can be retrieved at any time
-- ✨ **styled screens:** build a custom styled screen based on markdown with colors, font sizes and weights of choice. Loads in less than 2 seconds. Runs no external scripts, so external fonts are not supported (maybe in a future version) 
-- 🧰 **dictionary utilities:** New useful dictionary utilities such as removing an item from a dictionary, or checking if a dictionary has an item
-- ✨ **styled menus:** Styled Menus with images and descriptions 
-- ⬆️ **auto updater:** Checks if your shortcut has an update available and if so, installs it with a stylish screen and menu with all the update info.
-  - or, you can go advanced and make your own updater with Cyclone. don’t worry, we’ll check if the user has internet before requesting to update
-- 🔒 **encryption:** top tier encryption for protecting user set passwords 
+Cyclone is the ultimate power-up for Apple Shortcuts.  
+Install it once and get a bunch of new actions. Soon you’ll be able to make **Custom Functions** to speed up any shortcut you create.  
 
-# Installation
-It's recommended you use [this installer](https://routinehub.co/shortcut/19704/) to install Cyclone
-
-## terms
-[LICENSE](https://www.notion.so/LICENSE-2034cb1c688180f8b9cfc2967f173b39?pvs=21)
+It’s fully released and updated regularly.  
+💬 Found a bug or got an idea? [Send it here](https://tally.so/r/mVXylJ) – we actually read them.  
 
 ---
 
-you (end user) are responsible for what you do with our tools, how you use and distribute resulting content.
+# 🌀 Why Cyclone
 
-## privacy policy
+[Demo Shortcut](https://routinehub.co/shortcut/22695)
 
-cyclone’s privacy policy is simple: we don’t collect or store anything about you. your data isn’t anyone else’s business.
+Here’s what you get:  
+
+* ⬆️ **Auto-Updater** – keep your shortcuts on the latest version with an easy update screen  
+* 🖼️ **Styled Menus** – menus with images, descriptions, and a polished look  
+* 🎴 **Styled Screens** – markdown-powered screens with custom colors and layouts  
+* 🌎 **Global Variables** – save info between runs, and share it with other shortcuts if they use the same ProjectName  
+* 🧠 **Better Dictionaries & Lists** – merge, edit, and manage dictionaries and lists without hassle  
+* 🔒 **Encryption** – lock sensitive info with a password  
+* ⚡ **Fast Performance** – loads in under 2 seconds and only runs what’s needed  
+
+---
+
+# 🔮 Coming Soon
+
+* 🌸 **AI Actions** – free, private AI tools via [Pollinations.ai](https://pollinations.ai)  
+* 🌧️ **CyCloud Hosting** – store text online and use it anywhere  
+* 📦 **Build Functions** – turn repetitive steps into reusable blocks  
+
+**How to start:** Run Cyclone once → [Read the quick guide](https://cyclone.fibery.io/@public) → you’re ready  
+
+---
+
+Cyclone is lightweight, fast, and self-contained.  
+Join our [Discord](https://discord.com/invite/UYgGdEwGsK) to see what others are building or share your own shortcuts (13+ only).  
+
+---
+
+# 💖 Support Cyclone for Free
+
+Leave a ❤️ on our [RoutineHub page](https://routinehub.co/shortcut/19577) or add this badge to your shortcut’s description:  
+
+```
+[![This shortcut uses or supports Cyclone](https://i.imgur.com/6RCqPh6.jpeg)](https://routinehub.co/shortcut/19577)```
+
+[![This shortcut uses or supports Cyclone](https://i.imgur.com/6RCqPh6.jpeg)](https://routinehub.co/shortcut/19577)
